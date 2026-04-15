@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Jurupa Valley, California with a population of over 105k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Jurupa Valley, California, US",
+  "export_job_id": "8fe7933d-b889-4a83-82ed-2b0f1b2d65fc",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 842153,
+  "location_name": "Jurupa Valley",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-jurupa-valley-california-us-sample-842153",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/842153/beamstation_842153_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 12.58,
+  "sample_records": 19,
+  "sample_sha256": "64e3685c084d1317148b2f0e5043c539dee5657dcd4e0a47bbfe36fca749ce86",
+  "sample_size_bytes": 84864,
+  "total_records": 151,
+  "updated_at": "2026-03-31T12:51:05.189087+00:00"
+}
