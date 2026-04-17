@@ -9,9 +9,9 @@
 | Dataset ID | `842153` |
 | Location | Jurupa Valley |
 | Category | Restaurants |
-| Full dataset size | 151 records |
-| Free sample size | 19 records (12.58%) |
-| Last export | 2026-03-31T12:51:05.189087+00:00 |
+| Full dataset size | 197 records |
+| Free sample size | 19 records (9.64%) |
+| Last export | 2026-04-14T13:02:05.287004+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-jurupa-valley-california-us-sample-842153/releases/download/sample-latest/beamstation_842153_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
