@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fbefd10e-e483-4c23-81f4-52654d714516",
+  "export_job_id": "38803a6f-c182-46be-8e50-0237ac39fdd2",
   "id_short": 842153,
-  "published_at": "2026-04-28T19:30:20Z",
+  "published_at": "2026-05-06T07:14:01Z",
   "repo_name": "all-restaurants-in-jurupa-valley-california-us-sample-842153",
   "sample_asset_name": "beamstation_842153_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/842153/beamstation_842153_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "9b34a13a513273cf59eb398ddbb85dc103bcef92504f76d206d01f15252d0840",
-  "sample_size_bytes": 67648,
-  "total_records": 171
+  "sample_records": 19,
+  "sample_sha256": "caccf7185266d91dd3a09e1bee556dab8973bb5a5ac30ab2b63030ddf3ed2314",
+  "sample_size_bytes": 80816,
+  "total_records": 199
 }
